@@ -1,5 +1,5 @@
 # MovieApp
-Simple application for displaying movies using themoviedb API. This application is to fulfill the midterm exam for mobile application programming at Amikom University
+Aplikasi sederhana untuk menampilkan film menggunakan API themoviedb. Aplikasi ini untuk memenuhi ujian tengah semester untuk pemrograman aplikasi mobile di Amikom University
 
-# Author
-Mukhlis Akbarrudin (16.11.0188)
+# Pembuat MovieApp
+Abdul Mizwar A. Rahim (16.11.0185)
